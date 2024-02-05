@@ -7,3 +7,6 @@ hebspacy
 tensorboard
 mlflow
 nested-ragged-tensors
+pymsm
+pycox
+boxhed-shap
