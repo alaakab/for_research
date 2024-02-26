@@ -10,3 +10,6 @@ nested-ragged-tensors
 pymsm
 pycox
 boxhed-shap
+Tensorflow==2.13
+Keras==2.13
+Transformers==4.30.2
