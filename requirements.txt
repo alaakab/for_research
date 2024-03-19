@@ -1,3 +1,4 @@
+imblearn
 pytorch-tabular
 torchvision
 pytorch-widedeep
