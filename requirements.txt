@@ -1,3 +1,5 @@
+cv2
+keras-tuner
 imblearn
 pytorch-tabular
 torchvision
