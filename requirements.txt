@@ -19,3 +19,4 @@ boxhed-shap
 Tensorflow==2.13
 Keras==2.13
 Transformers==4.30.2
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
