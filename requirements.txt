@@ -1,7 +1,7 @@
 pyspark
 pandas
 numpy
-protobuf==4.25.3
+protobuf==6.33.5
 tensorboard==2.4.0
 rich
 ipywidgets
